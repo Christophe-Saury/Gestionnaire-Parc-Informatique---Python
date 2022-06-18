@@ -14,4 +14,7 @@ license is expired or not.
 Additional functionality we added :
 - Do a multi-criteria search and show the results
 
-
+Potential Upgrades :
+- Allow the school to have several campuses and be able to select any one of them and base results on this.
+- Make a web site instead of a local app
+- Make the app look better and reuse the color scheme from the school logo
