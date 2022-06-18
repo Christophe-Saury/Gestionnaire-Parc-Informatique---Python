@@ -1,7 +1,7 @@
 # Software-and-Hardware-Manager--Python
 App in python that can manage the computers and softwares run by a company. Was built for a school project with tkinter and SQLite.
 
-My school required me to make an app in Python that could manage the computers and softwares run by the school. 
+My school required me work in pairs to make an app in Python that could manage the computers and softwares run by the school. 
 
 The app should be able to :
 - Visualize all the computers of the school, their characteristics, their id, the operating system they use and show whether the SolidWorks and Proteus 
